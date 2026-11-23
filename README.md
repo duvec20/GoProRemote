@@ -8,6 +8,8 @@ BLE was chosen over Wi-Fi because it is far easier on battery for both the watch
 
 Work in progress — a learning project.
 
+I'm a front-end developer, and I'm building this to teach myself Kotlin and Android (Wear OS) development. I'm using AI coding tools along the way: I decide what to build and how it should behave, and I use the AI to write and explain the Kotlin so I learn the language as the app comes together.
+
 - [x] Request Bluetooth permissions
 - [x] Scan for a GoPro (filtered by GoPro's BLE service UUID `FEA6`)
 - [x] Connect / disconnect and discover services
